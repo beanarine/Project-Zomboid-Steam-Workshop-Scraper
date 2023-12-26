@@ -1,3 +1,7 @@
+---
+title: Project Zomboid Steam Workshop Collection Scraper
+version: 1.0
+---
 # About
 I wanted to play some multiplayer Project Zomboid with my wife and grabbing all the Mod IDs was going to be a pain. So I put together a small scraping script.
 
